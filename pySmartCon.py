@@ -1,1 +1,0 @@
-# Python Smart COntract
